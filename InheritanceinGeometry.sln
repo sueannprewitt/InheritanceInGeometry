@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceinGeometry", "InheritanceinGeometry\InheritanceinGeometry.csproj", "{97D81CAE-F30B-428B-ABA4-C65F50427AD0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInheritanceinGeometry", "TestInheritanceinGeometry\TestInheritanceinGeometry.csproj", "{2EF73111-AB62-45F3-A377-AB605D328B08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{97D81CAE-F30B-428B-ABA4-C65F50427AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97D81CAE-F30B-428B-ABA4-C65F50427AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97D81CAE-F30B-428B-ABA4-C65F50427AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EF73111-AB62-45F3-A377-AB605D328B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF73111-AB62-45F3-A377-AB605D328B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF73111-AB62-45F3-A377-AB605D328B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF73111-AB62-45F3-A377-AB605D328B08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
